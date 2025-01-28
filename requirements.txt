@@ -3,3 +3,5 @@ Pillow
 transformers
 openai
 streamlit
+tensorflow
+pytorch
