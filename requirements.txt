@@ -4,6 +4,7 @@ openai
 streamlit
 transformers==4.33.0
 torch>=2.0,<2.5
-tensorflow==2.11.0
+tensorflow>=2.17.0,<2.19.0
 tensorflow-hub
-tf-keras==2.11.0
+tf-keras
+pip>=25.0
