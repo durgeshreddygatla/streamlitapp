@@ -4,4 +4,4 @@ transformers
 openai
 streamlit
 tensorflow
-pytorch
+torch
