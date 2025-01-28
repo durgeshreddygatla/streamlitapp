@@ -2,8 +2,8 @@ flask
 Pillow
 openai
 streamlit
-transformers==4.33.0  # Ensure compatibility with the BLIP model
-torch==2.0.1          # Specify a compatible version of PyTorch
-tensorflow==2.11.0    # Use a compatible version of TensorFlow
-tensorflow-hub        # Required for TensorFlow models
-tf-keras==2.11.0      # Backwards-compatible TensorFlow Keras package
+transformers==4.33.0
+torch>=2.0,<2.5
+tensorflow==2.11.0
+tensorflow-hub
+tf-keras==2.11.0
